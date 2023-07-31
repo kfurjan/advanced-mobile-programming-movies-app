@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "233674882144",
+    "project_id": "algebramovieapp",
+    "storage_bucket": "algebramovieapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233674882144:android:a3a3f58f32cec792f2d705",
+        "android_client_info": {
+          "package_name": "hr.algebra.moviesapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233674882144-mfof6lqfm9gl68i9dek6t90k30fj9fgi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hr.algebra.moviesapp",
+            "certificate_hash": "6617359be4356632fd95ed61e9803c2b119f19a3"
+          }
+        },
+        {
+          "client_id": "233674882144-0ieng0pjgau33dge56fhp82h70p5ae1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwIV6sggczwsM0dloC4rWysf7kQobgeOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233674882144-0ieng0pjgau33dge56fhp82h70p5ae1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
